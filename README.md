@@ -5,7 +5,7 @@ Checkout this repo, install depdencies, then start the process with the followin
 
 ```
 	> git clone https://github.com/ilkeraltin/react-redux-weather-app.git
-	> cd weatherRedux
+	> cd react-redux-weather-app
 	> npm install
 	> npm start
 ```
